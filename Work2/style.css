@@ -1,0 +1,13 @@
+body {font-family: Arial, Helvetica, sans-serif; color:black} /*Body de tanımlanan black color selection larla değiştirilmiştir. 
+/* Header ve Paragrafta "colored, underlined, italic, bold, letter spacing, upercase" özellikleri kullanılmıştır.*/ 
+h3 {color: blue; text-decoration: underline; font-style: italic; text-align:center; text-transform: uppercase;margin-left: 5px}
+p {letter-spacing: 0,5px; margin-left: 5px;}
+.base{ width:1200px; height:auto;}
+.EducationH { width:1160px; height:25px; float:left; margin:0 0 0 5px; font-weight:bolder; padding:5px; text-align:center; background:#016dd9; border-radius: 25px }
+.Education { width:280px; height:60px; float:left; margin:0 0 0 5px; padding:5px; text-align:center; background:#016dd9; border-radius: 25px }
+.WorkingH { width:1160px; height:25px; float:left; margin:0 0 0 5px; font-weight:bolder; padding:5px; text-align:center; background:#ca6614; border-radius: 25px }
+.Working { width:280px; height:60px; float:left; margin:0 0 0 5px; padding:5px; text-align:center; background:#ca6614; border-radius: 25px }
+.ChieldrenH { width:1160px; height:25px; float:left; margin:0 0 0 5px; font-weight:bolder; padding:5px; text-align:center; background:#33dd09; border-radius: 25px }
+.Chieldren { width:280px; height:60px; float:left; margin:0 0 0 5px; padding:5px; text-align:center; background:#33dd09; border-radius: 25px }
+.HobiesH { width:1160px; height:25px; float:left; margin:0 0 0 5px; font-weight:bolder; padding:5px; text-align:center; background:#e778d8; border-radius: 25px }
+.Hobies { width:280px; height:60px; float:left; margin:0 0 0 5px; padding:5px; text-align:center; background:#e778d8; border-radius: 25px }
